@@ -3,6 +3,8 @@ import random
 import time
 import os
 
+print("Anonfiles url finder by https://github.com/BasedGamer01")
+
 def get():
     upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     lower = "abcdefghijklmnopqrstuvwxyz"
