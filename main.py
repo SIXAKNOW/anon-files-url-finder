@@ -3,8 +3,6 @@ import random
 import time
 import os
 
-print("Anonfiles scraper by BasedGamer#0001")
-
 def get():
     upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     lower = "abcdefghijklmnopqrstuvwxyz"
